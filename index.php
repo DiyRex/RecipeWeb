@@ -12,5 +12,6 @@
     <h1>user</h1>
     <p></p>
     <h1>Login ok</h1>
+    <h1>signup ok</h1>
 </body>
 </html>
