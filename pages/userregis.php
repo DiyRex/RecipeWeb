@@ -15,7 +15,7 @@
         <div class="row justify-content-center">
             <div class="col-md-12"> <!-- Adjust column size based on screen size -->
                 <div class="registration-form bg-light rounded p-4">
-                    <h2 class="text-center mb-4">Admin Registration Form</h2>
+                    <h2 class="text-center mb-4">User Registration Form</h2>
                     <form>
                         <div class="mb-3 row">
                             <label for="name" class="col-sm-4 col-form-label">Name:</label>
