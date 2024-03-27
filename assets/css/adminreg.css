@@ -1,0 +1,33 @@
+body {
+    background-color: #f5f5f5; /* Ash color background */
+}
+
+.registration-form {
+    max-width: 500px;
+}
+
+.registration-form form {
+    margin-bottom: 0;
+}
+body, html {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.registration-form {
+    width: 80vh; /* Set width equal to 80% of viewport height */
+    height: 80vh; /* Set height equal to 80% of viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Additional styling for form fields if needed */
+
