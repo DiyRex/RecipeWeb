@@ -1,0 +1,8 @@
+/* homepg.css */
+.custom-container {
+    padding-top: 100px; /* Adjust the value to move the text closer to the top */
+}
+
+.display-4 {
+    font-size: 4rem; /* Adjust the value to make the font size bigger */
+}
